@@ -1,8 +1,8 @@
 # udacity-server
 
 ## Basic Information
-IP address: 54.174.47.151
-Port: 2200
+IP address: 54.174.47.151\
+Port: 2200\
 URL: [http://54.174.47.151.xip.io](http://54.174.47.151.xip.io)
 
 ## Software Installed
