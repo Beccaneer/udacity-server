@@ -22,3 +22,9 @@ URL: [http://54.174.47.151.xip.io](http://54.174.47.151.xip.io)
 * Changed ssh port from `22` to `2200`
 * Changed UFW to allow `ssh`, `http`, and `ntp` only, disabled port `22`
 * Added the `.wsgi` file to `\var\www\html\`
+
+## 3rd party resources
+* StackOverflow
+* Documentation for various packages listed above
+* Ubuntu packages page
+* https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#step-four-%E2%80%93-configure-and-enable-a-new-virtual-host
